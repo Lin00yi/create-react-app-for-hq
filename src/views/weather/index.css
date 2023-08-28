@@ -1,0 +1,10 @@
+.location{
+  font-size:16px;
+  color: #262626;
+}
+.city{
+  font-size: 20px;
+  color: #262626;
+  cursor: pointer;
+}
+
